@@ -1,0 +1,41 @@
+{
+  "username": "torvalds",
+  "repo_count": 12,
+  "top_repos": [
+    {
+      "name": "linux",
+      "stars": 252141,
+      "language": "C",
+      "url": "https://github.com/torvalds/linux"
+    },
+    {
+      "name": "AudioNoise",
+      "stars": 4513,
+      "language": "C",
+      "url": "https://github.com/torvalds/AudioNoise"
+    },
+    {
+      "name": "GuitarPedal",
+      "stars": 2458,
+      "language": "C",
+      "url": "https://github.com/torvalds/GuitarPedal"
+    },
+    {
+      "name": "uemacs",
+      "stars": 2168,
+      "language": "C",
+      "url": "https://github.com/torvalds/uemacs"
+    },
+    {
+      "name": "test-tlb",
+      "stars": 1073,
+      "language": "C",
+      "url": "https://github.com/torvalds/test-tlb"
+    }
+  ],
+  "languages": {
+    "C": 10,
+    "OpenSCAD": 1,
+    "C++": 1
+  }
+}
