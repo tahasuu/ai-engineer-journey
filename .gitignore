@@ -218,3 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 chat.json
 chat_day3.*
+.env
+.env
+.env
+.env
